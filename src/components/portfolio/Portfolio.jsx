@@ -23,7 +23,7 @@ const items = [
     title: "Netflix Clone",
     img: "https://images.pexels.com/photos/6894528/pexels-photo-6894528.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
     desc: "A application based on famous streaming flatform Netflix with real time update of movies through API along with their trailers.",
-    website: "https://netflixclone-chaos.netlify.app/"
+    website: "https://netflixclonemy.netlify.app/"
   },
 
 ];
