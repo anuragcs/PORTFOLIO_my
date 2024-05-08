@@ -8,7 +8,7 @@ const items = [
     title: "RYOKO-TRAVEL TO METAVERSE",
     img: "https://images.pexels.com/photos/18073372/pexels-photo-18073372/free-photo-of-young-man-sitting-in-a-car-on-a-night-street.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
     desc: "The app provide virtual techonology services that allow you to interact and visit different locations without even physically travelling. A Hackathon project made using both backend and frontend technolgies.",
-    website: "https://anuraggupta07.netlify.app/"
+    website: "https://github.com/anuragcs/RYOKO"
    
   },
   {
